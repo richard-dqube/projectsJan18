@@ -1,0 +1,78 @@
+package com.dqube.config;
+
+import java.util.Properties;
+
+import javax.sql.DataSource;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.stereotype.Component;
+
+@Component
+@ComponentScan(basePackages="com.dqube")
+@Configuration
+public class ConfigurationClass {
+
+		//DataSource (Database-H2) Configuration Bean
+		
+			@Bean("dataSource")
+			public DataSource getH2DataSource()
+			{
+				System.out.println("data");
+				
+			BasicDataSource dataSource = new BasicDataSource();
+			dataSource.setDriverClassName("org.h2.Driver");
+			dataSource.setUrl("jdbc:h2:~/test1");
+			dataSource.setUsername("sa");
+			dataSource.setPassword("");
+			
+			return dataSource;
+				
+			}
+		
+			
+			//SessionFactory Bean
+			
+			@Autowired
+			@Bean("sessionFactory")
+			public LocalSessionFactoryBean getSessionFactory(DataSource dataSource){
+			 	System.out.println("sess");
+				LocalSessionFactoryBean sessionFactory = new LocalSessionFactoryBean();
+				sessionFactory.setDataSource(dataSource);
+				sessionFactory.setHibernateProperties(getHibernateProperties());
+				sessionFactory.setPackagesToScan(new String[] {"com.niit.backend.entity"});
+				
+				return sessionFactory;
+				
+			}
+		
+			//Hibernate Properties
+			
+			public Properties getHibernateProperties(){
+				System.out.println("hiber");
+				Properties properties = new Properties();
+				
+				properties.setProperty("hibernate.dialect", "org.hibernate.dialect.H2Dialect");
+				properties.setProperty("hibernate.show_sql", "true");
+				properties.setProperty("hibernate.hbm2ddl.auto", "update");
+				
+				return properties;	
+			}
+		
+			//TransactionManager Bean
+			
+			@Autowired
+			@Bean("transactionManager")
+			public HibernateTransactionManager getTransactionManager(SessionFactory sessionFactory){System.out.println("tran");
+				HibernateTransactionManager transactionManager = new HibernateTransactionManager();
+				transactionManager.setSessionFactory(sessionFactory);
+				
+				return transactionManager;
+
+			}
+			
+			
+	}
+	

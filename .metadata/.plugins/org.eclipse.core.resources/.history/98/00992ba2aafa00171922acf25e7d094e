@@ -1,0 +1,6 @@
+package com.dqube.config;
+
+
+public class ConfigurationClass {
+
+}

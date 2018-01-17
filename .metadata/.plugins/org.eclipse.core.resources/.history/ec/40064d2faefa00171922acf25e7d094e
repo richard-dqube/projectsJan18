@@ -1,0 +1,17 @@
+package com.dqube.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+
+@Entity
+public class EntityClass implements Serializable{
+
+	private static final long serialVersionUID = -7025661151588547047L;
+
+	@Id
+	Integer Id;
+	String project_name,project_task,project_Id, task_Id,user_Id,user_name,dateandtime;
+
+	
+}
