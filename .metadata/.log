@@ -1364,3 +1364,942 @@ org.eclipse.recommenders.utils.Logs$LogTraceException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 09:38:59.511
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 10:45:37.473
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 10:45:37.513
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 10:45:49.675
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 10:45:49.684
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2018-01-17 11:27:14.178
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-01-17 11:27:14.184
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 11:29:22.686
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 11:29:22.697
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 11:37:23.171
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 11:37:23.180
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:01:18.814
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:01:18.822
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:07:21.122
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:07:21.133
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:08:22.593
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:08:22.607
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:08:22.633
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:08:37.095
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:08:37.102
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:10:58.237
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:10:58.253
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:12:06.440
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:12:06.447
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:12:06.458
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:17:04.556
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:17:04.566
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:17:42.876
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:17:42.888
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:17:42.902
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:20:44.451
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:20:44.461
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:20:44.471
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:20:44.504
+!MESSAGE C:\Users\Richard\.m2\repository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:20:44.527
+!MESSAGE C:\Users\Richard\.m2\repository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:20:44.533
+!MESSAGE C:\Users\Richard\.m2\repository\org\springframework\spring-core\4.3.12.RELEASE\spring-core-4.3.12.RELEASE.jar is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:20:45.865
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:20:45.880
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:21:08.691
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:21:08.704
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:21:08.724
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:30:03.327
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:30:03.336
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:30:03.346
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:30:03.380
+!MESSAGE C:\Users\Richard\.m2\repository\org\springframework\spring-core\4.3.5.RELEASE\spring-core-4.3.5.RELEASE.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:30:03.391
+!MESSAGE C:\Users\Richard\.m2\repository\org\springframework\spring-core\4.3.5.RELEASE\spring-core-4.3.5.RELEASE.jar is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:30:04.641
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:30:04.659
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:31:24.950
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:31:24.962
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:31:24.977
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:33:56.521
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:33:56.530
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:33:56.539
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:33:56.566
+!MESSAGE C:\Users\Richard\.m2\repository\org\hibernate\hibernate-core\5.2.12.Final\hibernate-core-5.2.12.Final.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:33:56.572
+!MESSAGE C:\Users\Richard\.m2\repository\org\hibernate\hibernate-core\5.2.12.Final\hibernate-core-5.2.12.Final.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:33:56.578
+!MESSAGE C:\Users\Richard\.m2\repository\org\hibernate\hibernate-core\5.2.12.Final\hibernate-core-5.2.12.Final.jar is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:33:58.794
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:33:58.802
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-01-17 12:34:20.147
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-01-17 12:34:20.147
+!MESSAGE File not found: D:\EclipseWorkSpaces\v1Jan18\apiConfig\target\m2e-wtp\web-resources\META-INF\MANIFEST.MF.
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-01-17 12:34:20.147
+!MESSAGE File not found: D:\EclipseWorkSpaces\v1Jan18\apiConfig\target\m2e-wtp\web-resources\META-INF\maven\com.dqube\apiConfig\pom.properties.
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-01-17 12:34:20.147
+!MESSAGE File not found: D:\EclipseWorkSpaces\v1Jan18\apiConfig\target\m2e-wtp\web-resources\META-INF\maven\com.dqube\apiConfig\pom.xml.
+
+!ENTRY org.eclipse.wst.jsdt.core 4 2 2018-01-17 12:34:20.153
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.wst.jsdt.core".
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2018-01-17 12:34:20.186
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:34:20.307
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:34:20.314
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.jsdt.core 4 2 2018-01-17 12:34:20.349
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.wst.jsdt.core".
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2018-01-17 12:34:20.356
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:34:47.042
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:34:47.054
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:37:12.354
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:37:12.366
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:37:12.379
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:37:12.412
+!MESSAGE C:\Users\Richard\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:37:12.421
+!MESSAGE C:\Users\Richard\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:37:13.728
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:37:13.738
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:37:55.212
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:37:55.219
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:37:55.229
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:42:26.872
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:42:26.882
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:42:26.892
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:42:26.922
+!MESSAGE C:\Users\Richard\.m2\repository\javax\servlet\jstl\1.2\jstl-1.2.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:42:26.929
+!MESSAGE C:\Users\Richard\.m2\repository\javax\servlet\jstl\1.2\jstl-1.2.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:42:26.939
+!MESSAGE C:\Users\Richard\.m2\repository\javax\servlet\jstl\1.2\jstl-1.2.jar is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:42:28.256
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:42:28.267
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-01-17 12:43:05.165
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-01-17 12:43:05.165
+!MESSAGE File not found: D:\EclipseWorkSpaces\v1Jan18\apiConfig\target\m2e-wtp\web-resources\META-INF\MANIFEST.MF.
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-01-17 12:43:05.165
+!MESSAGE File not found: D:\EclipseWorkSpaces\v1Jan18\apiConfig\target\m2e-wtp\web-resources\META-INF\maven\com.dqube\apiConfig\pom.properties.
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-01-17 12:43:05.165
+!MESSAGE File not found: D:\EclipseWorkSpaces\v1Jan18\apiConfig\target\m2e-wtp\web-resources\META-INF\maven\com.dqube\apiConfig\pom.xml.
+
+!ENTRY org.eclipse.wst.jsdt.core 4 2 2018-01-17 12:43:05.181
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.wst.jsdt.core".
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2018-01-17 12:43:05.188
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:43:05.326
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:43:05.333
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.jsdt.core 4 2 2018-01-17 12:43:05.641
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.wst.jsdt.core".
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2018-01-17 12:43:05.650
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:43:13.181
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:43:13.189
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:44:30.671
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:44:30.684
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:44:30.696
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:47:21.209
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:47:21.217
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:47:21.226
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:47:21.252
+!MESSAGE C:\Users\Richard\.m2\repository\org\hibernate\hibernate-core\5.2.12.Final\hibernate-core-5.2.12.Final.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:47:21.260
+!MESSAGE C:\Users\Richard\.m2\repository\org\hibernate\hibernate-core\5.2.12.Final\hibernate-core-5.2.12.Final.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 12:47:21.268
+!MESSAGE C:\Users\Richard\.m2\repository\org\hibernate\hibernate-core\5.2.12.Final\hibernate-core-5.2.12.Final.jar is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:47:23.659
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:47:23.669
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:52:38.736
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:52:38.744
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:56:09.898
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:56:09.910
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:57:17.323
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:57:17.330
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-01-17 12:57:43.465
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-01-17 12:57:43.465
+!MESSAGE File not found: D:\EclipseWorkSpaces\v1Jan18\apiConfig\target\m2e-wtp\web-resources\META-INF\MANIFEST.MF.
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-01-17 12:57:43.465
+!MESSAGE File not found: D:\EclipseWorkSpaces\v1Jan18\apiConfig\target\m2e-wtp\web-resources\META-INF\maven\com.dqube\apiConfig\pom.properties.
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-01-17 12:57:43.465
+!MESSAGE File not found: D:\EclipseWorkSpaces\v1Jan18\apiConfig\target\m2e-wtp\web-resources\META-INF\maven\com.dqube\apiConfig\pom.xml.
+
+!ENTRY org.eclipse.wst.jsdt.core 4 2 2018-01-17 12:57:43.474
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.wst.jsdt.core".
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2018-01-17 12:57:43.481
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:57:43.649
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:57:43.656
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.jsdt.core 4 2 2018-01-17 12:57:44.051
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.wst.jsdt.core".
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2018-01-17 12:57:44.057
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1594)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1584)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1419)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1395)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1948)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:57:51.468
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:57:51.475
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:59:48.175
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 12:59:48.183
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:16:50.344
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:16:50.352
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:19:45.485
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:19:45.492
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:20:14.852
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:20:14.864
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:20:14.880
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:25:39.866
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:25:39.874
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:25:39.883
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 14:25:39.911
+!MESSAGE C:\Users\Richard\.m2\repository\com\h2database\h2\1.4.196\h2-1.4.196.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 14:25:39.918
+!MESSAGE C:\Users\Richard\.m2\repository\com\h2database\h2\1.4.196\h2-1.4.196.jar is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:25:41.228
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:25:41.238
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:26:55.315
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:26:55.323
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:26:55.333
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:31:15.506
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:31:15.515
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:31:15.524
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:31:16.418
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:31:16.429
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:34:47.251
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:34:47.259
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:36:15.994
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:36:16.002
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 14:36:16.016
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:02:13.375
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:02:13.386
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:02:26.302
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:02:26.309
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:02:41.289
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:02:41.299
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:03:13.305
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:03:13.312
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:09:11.583
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:09:11.593
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:09:23.936
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:09:23.944
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:09:23.968
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:10:58.009
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:10:58.016
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:14:45.834
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:14:45.842
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:21:10.384
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:21:10.391
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:22:46.325
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:22:46.334
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:22:58.791
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:22:58.798
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:22:58.807
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:24:20.851
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:24:20.862
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:24:20.873
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 15:24:20.910
+!MESSAGE C:\Users\Richard\.m2\repository\mysql\mysql-connector-java\6.0.5\mysql-connector-java-6.0.5.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 15:24:20.918
+!MESSAGE C:\Users\Richard\.m2\repository\mysql\mysql-connector-java\6.0.5\mysql-connector-java-6.0.5.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2018-01-17 15:24:20.925
+!MESSAGE C:\Users\Richard\.m2\repository\mysql\mysql-connector-java\6.0.5\mysql-connector-java-6.0.5.jar is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:24:22.376
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:24:22.385
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:29:56.994
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:29:57.003
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:29:57.012
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:29:58.346
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:29:58.359
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:34:21.129
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:34:21.139
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:34:21.148
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:34:21.723
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:34:21.732
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:35:29.412
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:35:29.420
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:35:29.431
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:41:07.134
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:41:07.141
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:46:08.694
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:46:08.702
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:46:39.560
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:46:39.572
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-01-17 15:46:39.587
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

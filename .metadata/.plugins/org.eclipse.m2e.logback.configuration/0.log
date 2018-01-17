@@ -1511,3 +1511,569 @@
 2018-01-17 09:38:59,509 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-01-17 09:38:59,511 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-01-17 09:38:59,520 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 10:45:37,468 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 10:45:37,510 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 10:45:37,512 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 10:45:37,522 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 10:45:49,674 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 10:45:49,681 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 10:45:49,683 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 10:45:49,690 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 11:29:22,686 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 11:29:22,695 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 11:29:22,697 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 11:29:22,709 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 11:37:23,170 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 11:37:23,177 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 11:37:23,180 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 11:37:23,186 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:01:18,813 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:01:18,820 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:01:18,821 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:01:18,827 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:07:21,121 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:07:21,131 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:07:21,133 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:07:21,143 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:08:06,683 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:08:12,387 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:08:12,387 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 12:08:22,593 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:08:22,604 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:08:22,607 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:08:22,624 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:08:22,624 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:08:22,624 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:08:22,633 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:08:35,681 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 12:08:37,094 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:08:37,100 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:08:37,102 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:08:37,108 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:10:58,236 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:10:58,251 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:10:58,253 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:10:58,263 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:11:46,658 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:11:52,824 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:11:52,825 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 12:12:06,440 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:12:06,446 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:12:06,447 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:12:06,453 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:12:06,454 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:12:06,454 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:12:06,458 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:17:04,555 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:17:04,564 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:17:04,565 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:17:04,572 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:17:21,935 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:17:27,765 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:17:27,766 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 12:17:42,875 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:17:42,886 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:17:42,888 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:17:42,897 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:17:42,898 [Worker-67] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:17:42,898 [Worker-67] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:17:42,902 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:20:06,278 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 12:20:07,918 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.pom
+2018-01-17 12:20:08,316 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.pom
+2018-01-17 12:20:08,645 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE.pom
+2018-01-17 12:20:08,977 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE.pom
+2018-01-17 12:20:09,286 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.pom
+2018-01-17 12:20:09,592 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.pom
+2018-01-17 12:20:09,902 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE.pom
+2018-01-17 12:20:10,207 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE.pom
+2018-01-17 12:20:10,515 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.pom
+2018-01-17 12:20:10,828 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.pom
+2018-01-17 12:20:11,137 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE.pom
+2018-01-17 12:20:11,443 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE.pom
+2018-01-17 12:20:11,751 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.pom
+2018-01-17 12:20:12,111 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.pom
+2018-01-17 12:20:12,421 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.pom
+2018-01-17 12:20:12,741 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.pom
+2018-01-17 12:20:13,055 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2018-01-17 12:20:13,363 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2018-01-17 12:20:13,666 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.5.Final/hibernate-core-5.2.5.Final.pom
+2018-01-17 12:20:13,972 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.5.Final/hibernate-core-5.2.5.Final.pom
+2018-01-17 12:20:14,294 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom
+2018-01-17 12:20:14,605 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom
+2018-01-17 12:20:14,914 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.4/specs-1.4.pom
+2018-01-17 12:20:15,261 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.4/specs-1.4.pom
+2018-01-17 12:20:15,572 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.2/project-config-1.2.pom
+2018-01-17 12:20:15,994 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.2/project-config-1.2.pom
+2018-01-17 12:20:16,309 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.2/config-1.2.pom
+2018-01-17 12:20:16,614 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.2/config-1.2.pom
+2018-01-17 12:20:16,913 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.2/genesis-1.2.pom
+2018-01-17 12:20:17,247 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.2/genesis-1.2.pom
+2018-01-17 12:20:17,570 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.1/cdi-api-1.1.pom
+2018-01-17 12:20:17,881 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.1/cdi-api-1.1.pom
+2018-01-17 12:20:18,191 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/21/weld-parent-21.pom
+2018-01-17 12:20:18,586 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/21/weld-parent-21.pom
+2018-01-17 12:20:18,892 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/el/el-api/2.2/el-api-2.2.pom
+2018-01-17 12:20:19,199 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/el/el-api/2.2/el-api-2.2.pom
+2018-01-17 12:20:19,507 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/web/el/2.2/el-2.2.pom
+2018-01-17 12:20:19,814 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/web/el/2.2/el-2.2.pom
+2018-01-17 12:20:20,138 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.pom
+2018-01-17 12:20:20,446 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.pom
+2018-01-17 12:20:20,778 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta1/jboss-specs-parent-1.0.0.Beta1.pom
+2018-01-17 12:20:21,087 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta1/jboss-specs-parent-1.0.0.Beta1.pom
+2018-01-17 12:20:21,396 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5-beta-5/jboss-parent-5-beta-5.pom
+2018-01-17 12:20:21,732 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5-beta-5/jboss-parent-5-beta-5.pom
+2018-01-17 12:20:22,042 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2018-01-17 12:20:22,350 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2018-01-17 12:20:22,658 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2018-01-17 12:20:22,965 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2018-01-17 12:20:23,269 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.3.4.Final/hibernate-validator-5.3.4.Final.pom
+2018-01-17 12:20:23,598 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.3.4.Final/hibernate-validator-5.3.4.Final.pom
+2018-01-17 12:20:23,906 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.3.4.Final/hibernate-validator-parent-5.3.4.Final.pom
+2018-01-17 12:20:24,294 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.3.4.Final/hibernate-validator-parent-5.3.4.Final.pom
+2018-01-17 12:20:24,620 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.5.RELEASE/spring-orm-4.3.5.RELEASE.pom
+2018-01-17 12:20:24,928 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.5.RELEASE/spring-orm-4.3.5.RELEASE.pom
+2018-01-17 12:20:25,236 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.5.RELEASE/spring-jdbc-4.3.5.RELEASE.pom
+2018-01-17 12:20:25,544 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.5.RELEASE/spring-jdbc-4.3.5.RELEASE.pom
+2018-01-17 12:20:25,937 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.jar
+2018-01-17 12:20:27,811 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.jar
+2018-01-17 12:20:28,098 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE.jar
+2018-01-17 12:20:28,528 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE.jar
+2018-01-17 12:20:28,815 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.jar
+2018-01-17 12:20:29,156 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.jar
+2018-01-17 12:20:29,445 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE.jar
+2018-01-17 12:20:29,823 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE.jar
+2018-01-17 12:20:30,108 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar
+2018-01-17 12:20:30,506 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar
+2018-01-17 12:20:30,794 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE.jar
+2018-01-17 12:20:31,144 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE.jar
+2018-01-17 12:20:32,033 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.jar
+2018-01-17 12:20:32,461 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.jar
+2018-01-17 12:20:32,749 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.jar
+2018-01-17 12:20:33,082 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.jar
+2018-01-17 12:20:33,370 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2018-01-17 12:20:33,716 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2018-01-17 12:20:34,001 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.5.Final/hibernate-core-5.2.5.Final.jar
+2018-01-17 12:20:35,276 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.5.Final/hibernate-core-5.2.5.Final.jar
+2018-01-17 12:20:35,561 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar
+2018-01-17 12:20:35,995 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar
+2018-01-17 12:20:36,280 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.1/cdi-api-1.1.jar
+2018-01-17 12:20:36,595 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.1/cdi-api-1.1.jar
+2018-01-17 12:20:36,881 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/el/el-api/2.2/el-api-2.2.jar
+2018-01-17 12:20:37,344 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/el/el-api/2.2/el-api-2.2.jar
+2018-01-17 12:20:37,630 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+2018-01-17 12:20:38,005 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+2018-01-17 12:20:38,289 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2018-01-17 12:20:38,663 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2018-01-17 12:20:38,950 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2018-01-17 12:20:39,255 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2018-01-17 12:20:39,540 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.3.4.Final/hibernate-validator-5.3.4.Final.jar
+2018-01-17 12:20:39,916 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.3.4.Final/hibernate-validator-5.3.4.Final.jar
+2018-01-17 12:20:40,203 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.5.RELEASE/spring-orm-4.3.5.RELEASE.jar
+2018-01-17 12:20:40,549 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.5.RELEASE/spring-orm-4.3.5.RELEASE.jar
+2018-01-17 12:20:40,851 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.5.RELEASE/spring-jdbc-4.3.5.RELEASE.jar
+2018-01-17 12:20:41,192 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.5.RELEASE/spring-jdbc-4.3.5.RELEASE.jar
+2018-01-17 12:20:44,451 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:20:44,459 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:20:44,460 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:20:44,467 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:20:44,468 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:20:44,468 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:20:44,471 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:20:45,864 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:20:45,878 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:20:45,880 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:20:45,887 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:20:54,395 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:20:59,199 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:20:59,199 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 12:21:08,690 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:21:08,702 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:21:08,704 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:21:08,715 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:21:08,716 [Worker-65] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:21:08,716 [Worker-65] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:21:08,724 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:29:58,073 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 12:29:59,672 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2018-01-17 12:29:59,979 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2018-01-17 12:30:00,327 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2018-01-17 12:30:02,454 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2018-01-17 12:30:03,327 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:30:03,334 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:30:03,336 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:30:03,342 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:30:03,342 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:30:03,342 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:30:03,346 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:30:04,641 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:30:04,658 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:30:04,659 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:30:04,665 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:30:47,018 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:30:51,285 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:30:51,286 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B CLEAN INSTALL
+2018-01-17 12:31:02,602 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:31:12,255 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:31:12,256 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 12:31:24,949 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:31:24,960 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:31:24,962 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:31:24,971 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:31:24,972 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:31:24,972 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:31:24,977 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:33:55,714 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 12:33:56,520 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:33:56,528 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:33:56,529 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:33:56,535 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:33:56,535 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:33:56,535 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:33:56,538 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:33:58,793 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:33:58,800 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:33:58,801 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:33:58,807 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:34:03,868 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:34:06,959 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:34:06,959 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 12:34:20,306 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:34:20,313 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:34:20,314 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:34:20,320 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:34:47,042 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:34:47,052 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:34:47,054 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:34:47,064 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:37:11,600 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 12:37:12,354 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:37:12,363 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:37:12,366 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:37:12,374 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:37:12,375 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:37:12,375 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:37:12,379 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:37:13,728 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:37:13,736 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:37:13,738 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:37:13,744 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:37:17,774 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:37:23,175 [Worker-75] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:37:23,175 [Worker-75] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 12:37:55,212 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:37:55,218 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:37:55,219 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:37:55,224 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:37:55,225 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:37:55,225 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:37:55,228 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:42:26,167 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 12:42:26,871 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:42:26,880 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:42:26,882 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:42:26,888 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:42:26,888 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:42:26,888 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:42:26,891 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:42:28,255 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:42:28,264 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:42:28,266 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:42:28,272 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:42:47,352 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:42:51,144 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:42:51,145 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 12:43:05,325 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:43:05,332 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:43:05,333 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:43:05,339 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:43:13,181 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:43:13,187 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:43:13,188 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:43:13,194 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:44:16,751 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:44:20,236 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:44:20,237 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 12:44:30,671 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:44:30,682 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:44:30,683 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:44:30,692 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:44:30,692 [Worker-80] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:44:30,692 [Worker-80] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:44:30,696 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:47:20,469 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 12:47:21,208 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:47:21,215 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:47:21,217 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:47:21,222 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:47:21,222 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 12:47:21,222 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 12:47:21,226 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:47:23,659 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:47:23,667 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:47:23,668 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:47:23,674 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:52:38,736 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:52:38,743 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:52:38,744 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:52:38,754 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:56:09,898 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:56:09,908 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:56:09,910 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:56:09,916 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:57:17,322 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:57:17,329 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:57:17,330 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:57:17,336 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:57:23,552 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 12:57:28,283 [Worker-90] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 12:57:28,283 [Worker-90] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 12:57:43,648 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:57:43,655 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:57:43,656 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:57:43,662 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:57:51,468 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:57:51,474 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:57:51,475 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:57:51,481 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 12:59:48,175 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:59:48,181 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 12:59:48,182 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 12:59:48,189 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:16:50,343 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:16:50,350 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 14:16:50,352 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:16:50,358 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:19:45,484 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:19:45,491 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 14:19:45,492 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:19:45,498 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:19:54,258 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 14:19:59,730 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 14:19:59,730 [Worker-110] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 14:20:14,851 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:20:14,862 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 14:20:14,864 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:20:14,873 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:20:14,874 [Worker-109] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 14:20:14,874 [Worker-109] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 14:20:14,880 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:25:34,147 [Worker-113] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 14:25:35,704 [Worker-113] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2018-01-17 14:25:36,041 [Worker-113] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2018-01-17 14:25:36,457 [Worker-113] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2018-01-17 14:25:38,905 [Worker-113] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2018-01-17 14:25:39,865 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:25:39,873 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 14:25:39,874 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:25:39,880 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:25:39,880 [Worker-113] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 14:25:39,880 [Worker-113] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 14:25:39,883 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:25:41,228 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:25:41,237 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 14:25:41,238 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:25:41,244 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:26:39,167 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 14:26:44,272 [Worker-118] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 14:26:44,272 [Worker-118] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 14:26:55,315 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:26:55,321 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 14:26:55,322 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:26:55,329 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:26:55,329 [Worker-110] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 14:26:55,329 [Worker-110] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 14:26:55,333 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:31:09,791 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 14:31:11,295 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.pom
+2018-01-17 14:31:11,615 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.pom
+2018-01-17 14:31:12,049 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar
+2018-01-17 14:31:14,798 [Worker-121] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar
+2018-01-17 14:31:15,506 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:31:15,513 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 14:31:15,515 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:31:15,521 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:31:15,521 [Worker-121] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 14:31:15,521 [Worker-121] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 14:31:15,524 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:31:16,418 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:31:16,426 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 14:31:16,428 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:31:16,435 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:34:47,251 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:34:47,258 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 14:34:47,259 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:34:47,265 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:35:43,724 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 14:35:50,095 [Worker-127] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 14:35:50,095 [Worker-127] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 14:36:15,993 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:36:16,000 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 14:36:16,002 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 14:36:16,011 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 14:36:16,012 [Worker-132] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 14:36:16,012 [Worker-132] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 14:36:16,016 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:02:13,374 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:02:13,384 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:02:13,386 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:02:13,392 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:02:26,301 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:02:26,308 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:02:26,309 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:02:26,314 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:02:41,289 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:02:41,297 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:02:41,299 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:02:41,306 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:03:13,304 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:03:13,310 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:03:13,311 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:03:13,317 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:09:04,440 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 15:09:11,387 [Worker-133] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 15:09:11,388 [Worker-133] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 15:09:11,583 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:09:11,592 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:09:11,593 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:09:11,599 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:09:23,936 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:09:23,943 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:09:23,944 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:09:23,953 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:09:23,954 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 15:09:23,954 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 15:09:23,967 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:10:58,009 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:10:58,015 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:10:58,016 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:10:58,021 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:14:45,834 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:14:45,841 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:14:45,842 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:14:45,848 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:21:10,384 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:21:10,390 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:21:10,391 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:21:10,397 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:22:39,340 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 15:22:46,151 [Worker-150] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 15:22:46,152 [Worker-150] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 15:22:46,325 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:22:46,333 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:22:46,334 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:22:46,340 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:22:58,791 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:22:58,797 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:22:58,798 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:22:58,803 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:22:58,803 [Worker-156] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 15:22:58,804 [Worker-156] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 15:22:58,806 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:24:20,003 [Worker-139] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 15:24:20,851 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:24:20,860 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:24:20,862 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:24:20,868 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:24:20,869 [Worker-139] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 15:24:20,869 [Worker-139] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 15:24:20,872 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:24:22,376 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:24:22,384 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:24:22,385 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:24:22,390 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:29:38,923 [Worker-161] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 15:29:40,604 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.12.RELEASE/spring-test-4.3.12.RELEASE.pom
+2018-01-17 15:29:40,945 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.12.RELEASE/spring-test-4.3.12.RELEASE.pom
+2018-01-17 15:29:41,353 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-c3p0/4.3.11.Final/hibernate-c3p0-4.3.11.Final.pom
+2018-01-17 15:29:41,666 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-c3p0/4.3.11.Final/hibernate-c3p0-4.3.11.Final.pom
+2018-01-17 15:29:41,975 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+2018-01-17 15:29:42,307 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+2018-01-17 15:29:43,107 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2018-01-17 15:29:43,723 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2018-01-17 15:29:44,030 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.pom
+2018-01-17 15:29:44,375 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.pom
+2018-01-17 15:29:44,688 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-tools-parent/1.2.0.Beta1/jboss-logging-tools-parent-1.2.0.Beta1.pom
+2018-01-17 15:29:44,997 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-tools-parent/1.2.0.Beta1/jboss-logging-tools-parent-1.2.0.Beta1.pom
+2018-01-17 15:29:45,304 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/10/jboss-parent-10.pom
+2018-01-17 15:29:45,691 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/10/jboss-parent-10.pom
+2018-01-17 15:29:46,001 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.pom
+2018-01-17 15:29:46,310 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.pom
+2018-01-17 15:29:46,619 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.pom
+2018-01-17 15:29:46,927 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.pom
+2018-01-17 15:29:47,238 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2018-01-17 15:29:47,544 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2018-01-17 15:29:47,850 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2018-01-17 15:29:48,170 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2018-01-17 15:29:48,478 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.pom
+2018-01-17 15:29:48,785 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.pom
+2018-01-17 15:29:49,092 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2018-01-17 15:29:49,431 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2018-01-17 15:29:49,740 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mchange/c3p0/0.9.2.1/c3p0-0.9.2.1.pom
+2018-01-17 15:29:50,047 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mchange/c3p0/0.9.2.1/c3p0-0.9.2.1.pom
+2018-01-17 15:29:50,355 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mchange/mchange-commons-java/0.2.3.4/mchange-commons-java-0.2.3.4.pom
+2018-01-17 15:29:50,658 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mchange/mchange-commons-java/0.2.3.4/mchange-commons-java-0.2.3.4.pom
+2018-01-17 15:29:50,988 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.12.RELEASE/spring-test-4.3.12.RELEASE.jar
+2018-01-17 15:29:52,604 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.12.RELEASE/spring-test-4.3.12.RELEASE.jar
+2018-01-17 15:29:52,893 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-c3p0/4.3.11.Final/hibernate-c3p0-4.3.11.Final.jar
+2018-01-17 15:29:53,283 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-c3p0/4.3.11.Final/hibernate-c3p0-4.3.11.Final.jar
+2018-01-17 15:29:53,569 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar
+2018-01-17 15:29:53,998 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar
+2018-01-17 15:29:54,287 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mchange/c3p0/0.9.2.1/c3p0-0.9.2.1.jar
+2018-01-17 15:29:54,720 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mchange/c3p0/0.9.2.1/c3p0-0.9.2.1.jar
+2018-01-17 15:29:55,006 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mchange/mchange-commons-java/0.2.3.4/mchange-commons-java-0.2.3.4.jar
+2018-01-17 15:29:55,607 [Worker-161] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mchange/mchange-commons-java/0.2.3.4/mchange-commons-java-0.2.3.4.jar
+2018-01-17 15:29:56,994 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:29:57,001 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:29:57,003 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:29:57,008 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:29:57,009 [Worker-161] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 15:29:57,009 [Worker-161] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 15:29:57,012 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:29:58,346 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:29:58,357 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:29:58,359 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:29:58,365 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:34:20,430 [Worker-168] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-17 15:34:21,128 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:34:21,136 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:34:21,138 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:34:21,145 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:34:21,145 [Worker-168] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 15:34:21,145 [Worker-168] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 15:34:21,148 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:34:21,722 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:34:21,730 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:34:21,732 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:34:21,738 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:34:38,768 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 15:34:42,076 [Worker-154] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 15:34:42,077 [Worker-154] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B CLEAN INSTALL
+2018-01-17 15:34:55,551 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 15:35:03,888 [Worker-166] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 15:35:03,888 [Worker-166] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 15:35:29,411 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:35:29,419 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:35:29,420 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:35:29,426 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:35:29,427 [Worker-169] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 15:35:29,427 [Worker-169] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 15:35:29,431 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:41:07,134 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:41:07,140 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:41:07,141 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:41:07,146 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:46:08,694 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:46:08,700 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:46:08,701 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:46:08,708 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:46:18,683 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 15:46:23,788 [Worker-154] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 15:46:23,788 [Worker-154] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 15:46:39,560 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:46:39,570 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 15:46:39,571 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 15:46:39,581 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 15:46:39,582 [Worker-172] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 15:46:39,582 [Worker-172] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 15:46:39,587 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
