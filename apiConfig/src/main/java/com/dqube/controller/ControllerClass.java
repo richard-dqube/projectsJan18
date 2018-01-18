@@ -1,6 +1,8 @@
 package com.dqube.controller;
 
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
@@ -19,14 +21,19 @@ public class ControllerClass {
 	@Autowired
 	private	EmployeeService employeeService;
 	
+	//Home Page and for listing all Employees from the DB
+	
 	@RequestMapping(value={"/","/home"}, method=RequestMethod.GET)
-	public ModelAndView getHomePage(){
+	public ModelAndView getHomePageAndListEmployees(ModelAndView model){
 		
-		ModelAndView model = new ModelAndView("homePage");
+		List<EmployeeEntity> listEmployee = employeeService.getAllEmployees();
+		model.addObject("listEmployee", listEmployee);
+		model.setViewName("homePage");
 		
 		return model;
 	}
 	
+	// Redirects to Employee Registration form
 	
 	@RequestMapping(value = "/newEmployee", method = RequestMethod.GET)
     public ModelAndView newContact(ModelAndView model) {

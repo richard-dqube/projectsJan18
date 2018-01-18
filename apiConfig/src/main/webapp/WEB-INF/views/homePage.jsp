@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
+    <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,10 +8,36 @@
 <title>Welcome Home</title>
 </head>
 <body>
+<div align="center">
 <h2>Hello Richard!</h2>
 
 	<h3>I'm Working</h3>
 	
-	<a href="newEmployee">Register Here</a>
+		<a href="newEmployee">Click Me To Register</a>
+	
+	<table border="1">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Email Id</th>
+				<th>Address</th>
+				<th>Telephone</th>
+				<th>Action</th>
+			</tr>
+		</thead>
+	<c:forEach var="employee" items="${listEmployee}">
+		<tr>
+			<td>${employee.name}</td>
+			<td>${employee.email}</td>
+			<td>${employee.address}</td>
+			<td>${employee.telephone}</td>
+			<td>
+				<a href="editEmployee?id = ${employee.id}">Edit</a>
+				<a href="deleteEmployee?id = ${employee.id}">Delete</a>
+			</td>
+		</tr>
+	</c:forEach>
+	</table>
+</div>
 </body>
 </html>

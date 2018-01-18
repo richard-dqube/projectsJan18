@@ -1,5 +1,7 @@
 package com.dqube.DAOLayer;
 
+import java.util.List;
+
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
@@ -17,6 +19,14 @@ public class EmployeeDAOImpl implements EmployeeDAO {
 		
 		sessionFactory.getCurrentSession().saveOrUpdate(employee);
 		
+	}
+
+	@SuppressWarnings({ "unchecked" })
+	@Override
+	public List<EmployeeEntity> getAllEmployees() {
+		
+		String hql = "FROM EmployeeEntity";
+		return sessionFactory.getCurrentSession().createQuery(hql).getResultList();
 	}
 
 	

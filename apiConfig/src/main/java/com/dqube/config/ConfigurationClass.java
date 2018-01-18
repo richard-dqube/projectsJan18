@@ -26,7 +26,7 @@ public class ConfigurationClass {
 
 	@Autowired
 	@Bean(name="dataSource")
-	public DataSource getH2DataSource() {
+	public DataSource getMySQLDataSource() {
 		DriverManagerDataSource driverMgrDataSource=new DriverManagerDataSource();
 		driverMgrDataSource.setDriverClassName("com.mysql.jdbc.Driver");
 		driverMgrDataSource.setUrl("jdbc:mysql://localhost:3306/emp_tbl");
@@ -47,7 +47,7 @@ public class ConfigurationClass {
 		hibernateProperties.setProperty("hibernate.hbm2ddl.auto","update");
 
 		
-		LocalSessionFactoryBuilder localSessionFacBuilder=new LocalSessionFactoryBuilder((DataSource) getH2DataSource());
+		LocalSessionFactoryBuilder localSessionFacBuilder=new LocalSessionFactoryBuilder(getMySQLDataSource());
 		localSessionFacBuilder.addProperties(hibernateProperties);
 //		localSessionFacBuilder.addAnnotatedClass(Category.class);
 //		localSessionFacBuilder.addAnnotatedClass(Supplier.class);
