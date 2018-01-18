@@ -2077,3 +2077,323 @@
 2018-01-17 15:46:39,582 [Worker-172] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
 2018-01-17 15:46:39,582 [Worker-172] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
 2018-01-17 15:46:39,587 [Worker-172] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:10:39,413 [Worker-180] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:10:39,419 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 16:10:39,420 [Worker-180] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:10:39,425 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 16:13:02,419 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:13:02,425 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 16:13:02,427 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:13:02,432 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 16:13:26,306 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 16:13:31,316 [Worker-185] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 16:13:31,316 [Worker-185] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 16:13:50,700 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:13:50,710 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 16:13:50,712 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:13:50,721 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 16:13:50,721 [Worker-185] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 16:13:50,721 [Worker-185] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 16:13:50,726 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:56:20,053 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:56:20,063 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 16:56:20,065 [Worker-206] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:56:20,073 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 16:58:59,652 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:58:59,660 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 16:58:59,661 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:58:59,667 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 16:59:14,129 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:59:14,135 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 16:59:14,136 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 16:59:14,142 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 17:15:22,789 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:15:22,796 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 17:15:22,797 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:15:22,803 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 17:16:23,601 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:16:23,607 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 17:16:23,608 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:16:23,614 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 17:17:08,903 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:17:08,910 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 17:17:08,911 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:17:08,917 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 17:17:47,369 [Worker-219] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:17:47,376 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 17:17:47,377 [Worker-219] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:17:47,382 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 17:18:11,328 [Worker-219] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:18:11,336 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 17:18:11,337 [Worker-219] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:18:11,344 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 17:26:21,649 [Worker-220] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:26:21,656 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 17:26:21,657 [Worker-220] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:26:21,663 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 17:27:03,998 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:27:04,005 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 17:27:04,006 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:27:04,012 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 17:30:16,627 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:30:16,633 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 17:30:16,636 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:30:16,642 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 17:52:31,366 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:52:31,373 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 17:52:31,374 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 17:52:31,381 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:14:12,605 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:14:12,611 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:14:12,612 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:14:12,617 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:14:26,545 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 18:14:30,572 [Worker-242] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 18:14:30,572 [Worker-242] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 18:26:10,518 [Worker-244] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:26:10,524 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:26:10,525 [Worker-244] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:26:10,530 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:26:11,597 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:26:11,607 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:26:11,608 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:26:11,618 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:26:51,853 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 18:26:57,641 [Worker-242] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 18:26:57,641 [Worker-242] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 18:27:12,405 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:27:12,415 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:27:12,416 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:27:12,425 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:27:12,426 [Worker-242] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 18:27:12,426 [Worker-242] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 18:27:12,502 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:28:34,836 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:28:34,846 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:28:34,847 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:28:34,857 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:28:41,141 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 18:28:46,297 [Worker-249] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 18:28:46,297 [Worker-249] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 18:28:57,334 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:28:57,341 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:28:57,342 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:28:57,347 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:28:57,347 [Worker-249] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 18:28:57,347 [Worker-249] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 18:28:57,350 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:36:37,905 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:36:37,911 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:36:37,912 [Worker-242] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:36:37,917 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:36:49,601 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 18:36:53,796 [Worker-253] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 18:36:53,796 [Worker-253] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 18:37:22,159 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:37:22,165 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:37:22,167 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:37:22,173 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:37:22,173 [Worker-254] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 18:37:22,173 [Worker-254] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 18:37:22,176 [Worker-254] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:38:04,121 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-17 18:38:09,086 [Worker-250] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-17 18:38:09,086 [Worker-250] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-17 18:38:20,463 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:38:20,469 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:38:20,470 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:38:20,476 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:38:20,476 [Worker-249] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-17 18:38:20,476 [Worker-249] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-17 18:38:20,479 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:41:31,476 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:41:31,486 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:41:31,488 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:41:31,498 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:44:37,610 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:44:37,617 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:44:37,618 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:44:37,623 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:47:13,318 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:47:13,325 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:47:13,326 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:47:13,332 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:49:29,066 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:49:29,072 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:49:29,073 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:49:29,078 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:50:35,816 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:50:35,822 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:50:35,823 [Worker-247] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:50:35,828 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:54:55,684 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:54:55,694 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:54:55,695 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:54:55,705 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:58:06,408 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:58:06,415 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:58:06,416 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:58:06,421 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:58:13,500 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:58:13,506 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:58:13,508 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:58:13,513 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-17 18:59:48,193 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:59:48,204 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-17 18:59:48,205 [Worker-270] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 18:59:48,213 [Worker-270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 08:32:20,305 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 08:32:20,338 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 08:32:20,341 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 08:32:20,348 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 08:43:38,743 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-18 08:51:02,286 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 08:51:02,308 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 08:51:02,309 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 08:51:02,316 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:15:04,224 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:15:04,232 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:15:04,233 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:15:04,241 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:19:31,020 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-18 09:19:32,874 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.pom
+2018-01-18 09:19:33,221 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.pom
+2018-01-18 09:19:33,560 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar
+2018-01-18 09:19:34,660 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar
+2018-01-18 09:19:36,111 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:19:36,119 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:19:36,121 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:19:36,127 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:19:36,128 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-18 09:19:36,129 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-18 09:19:36,134 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:19:37,610 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:19:37,617 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:19:37,618 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:19:37,625 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:19:54,208 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.dqube:apiConfig:0.0.1-SNAPSHOT @ D:\EclipseWorkSpaces\v1Jan18\apiConfig\pom.xml.
+2018-01-18 09:19:55,041 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:19:55,049 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:19:55,051 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:19:55,058 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:19:55,059 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-18 09:19:55,059 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-18 09:19:55,063 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:20:05,617 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-18 09:20:10,829 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-18 09:20:10,830 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-18 09:20:29,696 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:20:29,704 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:20:29,706 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:20:29,715 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:20:29,716 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-18 09:20:29,716 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-18 09:20:29,720 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:21:42,080 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:21:42,088 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:21:42,089 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:21:42,096 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:21:58,534 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-18 09:22:05,906 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-18 09:22:05,906 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-18 09:22:21,111 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:22:21,123 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:22:21,125 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:22:21,134 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:22:21,135 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-18 09:22:21,135 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-18 09:22:21,144 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:34:18,677 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:34:18,683 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:34:18,685 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:34:18,690 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:38:48,893 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:38:48,900 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:38:48,902 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:38:48,908 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:39:09,839 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-18 09:39:14,331 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-18 09:39:14,331 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-18 09:39:28,343 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:39:28,353 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:39:28,355 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:39:28,366 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:39:28,367 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-18 09:39:28,367 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-18 09:39:28,376 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:46:23,104 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:46:23,110 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:46:23,112 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:46:23,118 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:53:33,125 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:53:33,132 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:53:33,133 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:53:33,139 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:53:39,338 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-18 09:53:44,096 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-18 09:53:44,096 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-18 09:53:57,802 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:53:57,809 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:53:57,810 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:53:57,816 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 09:53:57,817 [Worker-59] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-18 09:53:57,817 [Worker-59] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-18 09:53:57,820 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:59:45,010 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:59:45,016 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 09:59:45,018 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 09:59:45,024 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 10:02:22,082 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:02:22,088 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 10:02:22,089 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:02:22,096 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 10:02:28,998 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-18 10:02:33,426 [Worker-60] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-18 10:02:33,426 [Worker-60] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-18 10:02:50,309 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:02:50,320 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 10:02:50,322 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:02:50,331 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 10:02:50,331 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-18 10:02:50,331 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-18 10:02:50,335 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:14:48,258 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:14:48,268 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 10:14:48,269 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:14:48,279 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 10:15:22,503 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:15:22,518 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 10:15:22,519 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:15:22,526 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 10:15:52,562 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:15:52,573 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 10:15:52,576 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:15:52,582 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 10:26:06,519 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:26:06,535 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 10:26:06,536 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:26:06,543 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 10:26:20,662 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-18 10:26:25,550 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-18 10:26:25,551 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-18 10:26:50,443 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:26:50,453 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 10:26:50,455 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:26:50,464 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 10:26:50,465 [Worker-83] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-18 10:26:50,465 [Worker-83] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-18 10:26:50,471 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:30:48,538 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:30:48,544 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 10:30:48,545 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:30:48,552 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 10:31:23,329 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-01-18 10:31:27,599 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkSpaces\v1Jan18\apiConfig
+2018-01-18 10:31:27,599 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2018-01-18 10:31:40,648 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:31:40,658 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-18 10:31:40,660 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-18 10:31:40,670 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkSpaces\v1Jan18\apiConfig\src\test\resources
+2018-01-18 10:31:40,670 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiConfig
+2018-01-18 10:31:40,670 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiConfig
+2018-01-18 10:31:40,684 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

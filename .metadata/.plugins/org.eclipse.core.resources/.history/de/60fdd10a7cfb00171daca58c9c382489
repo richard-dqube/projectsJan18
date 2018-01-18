@@ -1,0 +1,36 @@
+package com.dqube.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.springframework.stereotype.Component;
+
+@Component
+@Entity
+@Table(name="emp_tbl")
+public class EmployeeEntity implements Serializable{
+
+	private static final long serialVersionUID = 350805860017764392L;
+
+	@Id
+	@Column
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	private Integer id;
+	@Column
+	private String name;
+	@Column
+	private String email;
+	@Column
+	private String address;
+	@Column
+	private String telephone;
+	
+	
+	
+}

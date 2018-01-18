@@ -24,25 +24,25 @@ public class EntityClass implements Serializable{
 	Integer Id;
 	
 	@Column
-	String project_name;
+	private String project_name;
 	
 	@Column
-	String project_task;
+	private	String project_task;
 	
 	@Column
-	String project_Id;
+	private	String project_Id;
 	
 	@Column
-	String task_Id;
+	private	String task_Id;
 	
 	@Column
-	String user_Id;
+	private	String user_Id;
 	
 	@Column
-	String user_name;
+	private	String user_name;
 	
 	@Column
-	String dateandtime;
+	private	String dateandtime;
 
 	public Integer getId() {
 		return Id;

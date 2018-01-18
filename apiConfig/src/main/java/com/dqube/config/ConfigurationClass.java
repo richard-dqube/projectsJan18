@@ -14,6 +14,7 @@ import org.springframework.orm.hibernate5.HibernateTransactionManager;
 import org.springframework.orm.hibernate5.LocalSessionFactoryBuilder;
 import org.springframework.stereotype.Component;
 
+import com.dqube.entity.EmployeeEntity;
 import com.dqube.entity.EntityClass;
 
 
@@ -28,7 +29,7 @@ public class ConfigurationClass {
 	public DataSource getH2DataSource() {
 		DriverManagerDataSource driverMgrDataSource=new DriverManagerDataSource();
 		driverMgrDataSource.setDriverClassName("com.mysql.jdbc.Driver");
-		driverMgrDataSource.setUrl("jdbc:mysql://localhost:3306/test1");
+		driverMgrDataSource.setUrl("jdbc:mysql://localhost:3306/emp_tbl");
 		driverMgrDataSource.setUsername("root");
 		driverMgrDataSource.setPassword("root");
 		System.out.println("connection established");
@@ -51,8 +52,8 @@ public class ConfigurationClass {
 //		localSessionFacBuilder.addAnnotatedClass(Category.class);
 //		localSessionFacBuilder.addAnnotatedClass(Supplier.class);
 //		localSessionFacBuilder.addAnnotatedClass(Product.class);
-//		localSessionFacBuilder.addAnnotatedClass(User.class);
 		localSessionFacBuilder.addAnnotatedClass(EntityClass.class);
+		localSessionFacBuilder.addAnnotatedClass(EmployeeEntity.class);
 		SessionFactory sessionFactory=localSessionFacBuilder.buildSessionFactory();
 		System.out.println("Session Factory Object Created");
 		return sessionFactory;

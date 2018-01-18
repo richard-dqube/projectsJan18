@@ -10,5 +10,7 @@
 <h2>Hello Richard!</h2>
 
 	<h3>I'm Working</h3>
+	
+	<a href="newEmployee">Register Here</a>
 </body>
 </html>
