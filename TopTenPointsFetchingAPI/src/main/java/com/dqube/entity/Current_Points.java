@@ -16,22 +16,30 @@ public class Current_Points {
 	
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
-	private int Id;
+	private int id;
 	private String project_name;
 	private String project_task;
 	private String project_Id;
 	private String task_Id;
 	private String user_Id;
 	private String user_name;
-	private String points;
-	private Date dateandtime;
+	private int points;
+	private Date date_time;
 	
+
 	public int getId() {
-		return Id;
+		return id;
 	}
 	public void setId(int id) {
-		Id = id;
+		this.id = id;
 	}
+	public Date getDate_time() {
+		return date_time;
+	}
+	public void setDate_time(Date date_time) {
+		this.date_time = date_time;
+	}
+	
 	public String getProject_name() {
 		return project_name;
 	}
@@ -68,17 +76,17 @@ public class Current_Points {
 	public void setUser_name(String user_name) {
 		this.user_name = user_name;
 	}
-	public String getPoints() {
+	public int getPoints() {
 		return points;
 	}
-	public void setPoints(String points) {
+	public void setPoints(int points) {
 		this.points = points;
 	}
 	public Date getDateandtime() {
-		return dateandtime;
+		return date_time;
 	}
-	public void setDateandtime(Date dateandtime) {
-		this.dateandtime = dateandtime;
+	public void setDateandtime(Date date_time) {
+		this.date_time = date_time;
 	}
 	
 
