@@ -16,7 +16,7 @@
 		<table>
 			<form:hidden path="id" />	
 					
-			<tr>
+<%-- 			<tr>
 				<td>project-id:</td>
 				<td><form:input path="project_Id"/></td>
 			</tr>
@@ -31,24 +31,24 @@
 			<tr>
 				<td>User_Id:</td>
 				<td><form:input path="user_Id"/></td>
-			</tr>
+			</tr> --%>
 			<tr>
-				<td>User_Name:</td>
+				<td>User Name:</td>
 				<td><form:input path="user_name"/></td>
 			</tr>
-			<tr>
+<%-- 			<tr>
 				<td>User_Id:</td>
 				<td><form:input path="user_Id"/></td>
-			</tr>
+			</tr> --%>
 			<tr>
 				<td>Points:</td>
 				<td><form:input path="points"/></td>
 			</tr>
 			<tr>
-				<td>Project_Task:</td>
+<%-- 				<td>Project Task:</td>
 				<td><form:input path="project_task"/></td>
 			</tr>
-			<tr>
+			<tr> --%>
 				<td colspan="2" align="center"><input type="submit" value="Save"></td>
 			</tr>
 		</table>

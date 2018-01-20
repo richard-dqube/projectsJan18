@@ -9,6 +9,8 @@ import javax.persistence.Table;
 import javax.persistence.Id;
 import org.springframework.stereotype.Component;
 
+
+
 @Table(name="current_points")
 @Component
 @Entity
