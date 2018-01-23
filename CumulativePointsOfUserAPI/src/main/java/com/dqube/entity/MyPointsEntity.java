@@ -1,0 +1,74 @@
+package com.dqube.entity;
+
+import java.util.Date;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Table;
+import javax.persistence.Id;
+import org.springframework.stereotype.Component;
+
+
+
+@Table(name="my_points")
+@Component
+@Entity
+public class MyPointsEntity {
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	private int id;
+	private String project_id;
+	private String task_id;
+	private int points;
+	private int redeem;
+	private Date date_time;
+	private String user_id;
+	
+
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getProject_id() {
+		return project_id;
+	}
+	public void setProject_id(String project_id) {
+		this.project_id = project_id;
+	}
+	public String getTask_id() {
+		return task_id;
+	}
+	public void setTask_id(String task_id) {
+		this.task_id = task_id;
+	}
+	public int getPoints() {
+		return points;
+	}
+	public void setPoints(int points) {
+		this.points = points;
+	}
+	public int getRedeem() {
+		return redeem;
+	}
+	public void setRedeem(int redeem) {
+		this.redeem = redeem;
+	}
+	public Date getDate_time() {
+		return date_time;
+	}
+	public void setDate_time(Date date_time) {
+		this.date_time = date_time;
+	}
+	public String getUser_id() {
+		return user_id;
+	}
+	public void setUser_id(String user_id) {
+		this.user_id = user_id;
+	}
+
+		
+}
