@@ -1,5 +1,6 @@
 package com.dqube.controller;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -7,27 +8,35 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.dqube.entity.Current_Points;
-import com.dqube.serviceLayer.UserService;
+ import com.dqube.entity.Current_Points; 
+ import com.dqube.serviceLayer.UserService;
 
+ // Controller class
 
 @Controller
 public class ControllerClass {
 	
+	// Autowired with Service Layer
+	
 	@Autowired
 	private UserService userService;
 	
+	// JSON Response Controller method
+	
+	@ResponseBody 
 	@RequestMapping(value= {"/"} , method=RequestMethod.GET)
-	public ModelAndView goHome(ModelAndView model){
+	public List<Current_Points> getJSON(){
+
+		List<Current_Points> listPoints = new ArrayList<Current_Points>();
+		listPoints.addAll(userService.listTopTen());
 		
-		List<Current_Points> listUser = userService.listTopTen();
-		model.addObject("listUser" , listUser);
-		model.setViewName("homePage");
-		
-		return model;
+		return listPoints;
 	}
+	
+	// New user controller method
 	
 	@RequestMapping(value= {"/newUser"} , method=RequestMethod.GET)
 	public ModelAndView newUser(ModelAndView model){
@@ -38,6 +47,8 @@ public class ControllerClass {
 		
 		return model;
 	}
+	
+	//save user controller method
 	
 	@RequestMapping(value="/saveUser" , method=RequestMethod.POST)
 	public ModelAndView saveUser(@ModelAttribute Current_Points user){

@@ -9,7 +9,7 @@ import javax.persistence.Table;
 import javax.persistence.Id;
 import org.springframework.stereotype.Component;
 
-
+// Entity Class
 
 @Table(name="current_points")
 @Component
@@ -92,6 +92,4 @@ public class Current_Points {
 	}
 	
 
-	
-	
 }

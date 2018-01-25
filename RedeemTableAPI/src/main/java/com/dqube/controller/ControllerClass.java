@@ -1,5 +1,6 @@
 package com.dqube.controller;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -7,6 +8,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.dqube.entity.RedeemEntity;
@@ -19,14 +21,14 @@ public class ControllerClass {
 	@Autowired
 	private UserService userService;
 	
+	@ResponseBody
 	@RequestMapping(value= {"/"} , method=RequestMethod.GET)
-	public ModelAndView goHome(ModelAndView model){
+	public List<RedeemEntity> getJSON(){
 		
-		List<RedeemEntity> listUser = userService.displayDescendingByPoints();
-		model.addObject("listUser" , listUser);
-		model.setViewName("homePage");
-		
-		return model;
+		List<RedeemEntity> listUser = new ArrayList<RedeemEntity>();
+		listUser.addAll(userService.displayDescendingByPoints());
+	
+		return listUser;
 	}
 	
 	@RequestMapping(value= {"/newUser"} , method=RequestMethod.GET)
