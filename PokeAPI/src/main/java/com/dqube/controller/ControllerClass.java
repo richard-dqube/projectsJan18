@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
@@ -18,11 +19,9 @@ public class ControllerClass {
 	@Autowired
 	private UserService userService;
 	
-	@RequestMapping(value= {"/"} , method=RequestMethod.GET)
-	public ModelAndView goHome(){
-		
-		String user_id = "Richard";
-		
+	@RequestMapping(value= {"/{user_id}"} , method=RequestMethod.GET)
+	public ModelAndView goHome(@PathVariable("user_id") String user_id){
+				
 		System.out.println("user_id is = " + user_id);
 		
 		ModelAndView model = new ModelAndView();
