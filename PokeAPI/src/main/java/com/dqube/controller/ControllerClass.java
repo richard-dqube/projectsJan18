@@ -19,11 +19,9 @@ public class ControllerClass {
 	@Autowired
 	private UserService userService;
 	
-	@RequestMapping(value= {"/{user_id}"} , method=RequestMethod.GET)
+	@RequestMapping(value= {"/", "/{user_id}"} , method=RequestMethod.GET)
 	public ModelAndView goHome(@PathVariable("user_id") String user_id){
 				
-		System.out.println("user_id is = " + user_id);
-		
 		ModelAndView model = new ModelAndView();
 		List<PokeTable> listUser = userService.listTopTen(user_id);
 		model.addObject("listUser" , listUser);
