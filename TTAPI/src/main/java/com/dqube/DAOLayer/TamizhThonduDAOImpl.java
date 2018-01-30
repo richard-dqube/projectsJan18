@@ -10,6 +10,7 @@ import org.springframework.stereotype.Repository;
 
 import com.dqube.entity.Current_Points;
 import com.dqube.entity.MyPointsEntity;
+import com.dqube.entity.PokeTableEntity;
 import com.dqube.entity.RedeemEntity;
 
 @Repository
@@ -53,5 +54,15 @@ public class TamizhThonduDAOImpl implements ThamizhThonduDAO {
 			List<MyPointsEntity> points = query.getResultList();
 			return  points;
 		}
-	
+
+		@SuppressWarnings("unchecked")
+		@Override
+		public List<PokeTableEntity> listPokes(String user_id) {
+				
+			String sql ="call poke_procedure(:parameter1)";
+			@SuppressWarnings("deprecation")
+			Query query = sessionFactory.getCurrentSession().createNativeQuery(sql).addEntity(PokeTableEntity.class).setParameter("parameter1", user_id);
+			List<PokeTableEntity> pokeList = query.getResultList();
+			return  pokeList;
+		}
 }

@@ -9,6 +9,7 @@ import org.springframework.transaction.annotation.Transactional;
 import com.dqube.DAOLayer.ThamizhThonduDAO;
 import com.dqube.entity.Current_Points;
 import com.dqube.entity.MyPointsEntity;
+import com.dqube.entity.PokeTableEntity;
 import com.dqube.entity.RedeemEntity;
 
 @Service
@@ -35,5 +36,13 @@ public class ThamizhThonduServiceImpl implements ThamizhThonduService {
 			
 			return thamizhThonduDAO.cumulativePointsPerUser();
 		}
+		
+		@Override
+		public List<PokeTableEntity> listPokes(String user_id) {
+			
+			return thamizhThonduDAO.listPokes(user_id);
 	
+		}
+		
+
 }

@@ -1,18 +1,22 @@
 package com.dqube.controller;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.dqube.ServiceLayer.ThamizhThonduService;
+import com.dqube.entity.RedeemEntity;
 import com.dqube.entity.Current_Points;
 import com.dqube.entity.MyPointsEntity;
-import com.dqube.entity.RedeemEntity;
+import com.dqube.entity.PokeTableEntity;
 
 @Controller
 public class ControllerClass {
@@ -20,16 +24,14 @@ public class ControllerClass {
 	@Autowired
 	ThamizhThonduService thamizhThonduService;
 	
-	@SuppressWarnings("unchecked")
 	@ResponseBody
-	@RequestMapping(value="/" , method=RequestMethod.GET)
-	public <E> List<E> listOfList(){
+	@RequestMapping(value="/{user_id}" , method=RequestMethod.GET)
+	public Object listOfList(@PathVariable("user_id") String user_id){
 		
-		List<E> listFinal = new ArrayList<E>();
+		Map<Object, Object> listFinal = new HashMap<>();
 
 		List<RedeemEntity> listUser = new ArrayList<RedeemEntity>();
 		listUser.addAll(thamizhThonduService.displayDescendingByPoints());
-		
 		
 		List<Current_Points> listPoints = new ArrayList<Current_Points>();
 		listPoints.addAll(thamizhThonduService.listTopTen());
@@ -37,10 +39,13 @@ public class ControllerClass {
 		List<MyPointsEntity> listMyPoints = new ArrayList<MyPointsEntity>();
 		listMyPoints.addAll(thamizhThonduService.cumulativePointsPerUser());
 		
+		List<PokeTableEntity> poke = new ArrayList<PokeTableEntity>();
+		poke.addAll(thamizhThonduService.listPokes(user_id));
 		
-		listFinal.add((E) listUser);
-		listFinal.add((E) listPoints);
-		listFinal.add((E) listMyPoints);
+		listFinal.put("RedeemEntity", listUser);
+		listFinal.put("CurrentPointsEntity", listPoints);
+		listFinal.put("MyPointsEntity", listMyPoints);
+		listFinal.put("PokeTableEntity", poke);
 
 		return listFinal;
 	}

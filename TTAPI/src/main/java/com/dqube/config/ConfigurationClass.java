@@ -18,6 +18,8 @@ import org.springframework.stereotype.Component;
 import com.dqube.entity.RedeemEntity;
 import com.dqube.entity.Current_Points;
 import com.dqube.entity.MyPointsEntity;
+import com.dqube.entity.PokeTableEntity;
+
 
 @Component
 @ComponentScan(basePackages="com.dqube")
@@ -49,16 +51,12 @@ public class ConfigurationClass {
 		
 		LocalSessionFactoryBuilder localSessionFacBuilder=new LocalSessionFactoryBuilder(getMySQLDataSource());
 		localSessionFacBuilder.addProperties(hibernateProperties);
-
-//		localSessionFacBuilder.addAnnotatedClass(Category.class);
-//		localSessionFacBuilder.addAnnotatedClass(Supplier.class);
-//		localSessionFacBuilder.addAnnotatedClass(Product.class);
 		
 		localSessionFacBuilder.addAnnotatedClass(RedeemEntity.class);
 		localSessionFacBuilder.addAnnotatedClass(MyPointsEntity.class);
 		localSessionFacBuilder.addAnnotatedClass(Current_Points.class);
+		localSessionFacBuilder.addAnnotatedClass(PokeTableEntity.class);
 
-		
 		SessionFactory sessionFactory=localSessionFacBuilder.buildSessionFactory();
 		System.out.println("Session Factory Object Created");
 		return sessionFactory;
