@@ -23,6 +23,7 @@ public class Current_Points {
 	private String project_task;
 	private String project_Id;
 	private String task_Id;
+	private String task_name;
 	private String user_Id;
 	private String user_name;
 	private int points;
@@ -52,31 +53,31 @@ public class Current_Points {
 		return project_task;
 	}
 	public void setProject_task(String project_task) {
-		this.project_task = project_task;
+		this.project_task = project_task; 
 	}
 	public String getProject_Id() {
 		return project_Id;
 	}
 	public void setProject_Id(String project_Id) {
-		this.project_Id = project_Id;
+		this.project_Id = project_Id; 
 	}
 	public String getTask_Id() {
 		return task_Id;
 	}
 	public void setTask_Id(String task_Id) {
-		this.task_Id = task_Id;
+		this.task_Id = task_Id; 
 	}
 	public String getUser_Id() {
 		return user_Id;
 	}
 	public void setUser_Id(String user_Id) {
-		this.user_Id = user_Id;
+		this.user_Id = user_Id; 
 	}
 	public String getUser_name() {
 		return user_name;
 	}
 	public void setUser_name(String user_name) {
-		this.user_name = user_name;
+		this.user_name =  user_name; 
 	}
 	public int getPoints() {
 		return points;
@@ -89,6 +90,12 @@ public class Current_Points {
 	}
 	public void setDateandtime(Date date_time) {
 		this.date_time = date_time;
+	}
+	public String getTask_name() {
+		return task_name;
+	}
+	public void setTask_name(String task_name) {
+		this.task_name = task_name;
 	}
 	
 

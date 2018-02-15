@@ -1,5 +1,0 @@
-package com.dqube.DAOLayer;
-
-public interface EmployeeDAO {
-
-}

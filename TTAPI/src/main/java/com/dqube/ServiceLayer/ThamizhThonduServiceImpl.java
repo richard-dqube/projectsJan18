@@ -19,6 +19,8 @@ public class ThamizhThonduServiceImpl implements ThamizhThonduService {
 		@Autowired
 		private ThamizhThonduDAO thamizhThonduDAO;
 		
+		// Fetching List
+		
 		@Override
 		public List<RedeemEntity> displayDescendingByPoints() {
 			
@@ -44,5 +46,27 @@ public class ThamizhThonduServiceImpl implements ThamizhThonduService {
 	
 		}
 		
-
+		// Inserting List
+		
+		@Override
+		@Transactional
+		public boolean listInsert(List<Current_Points>  listOfObjects){
+			
+			try{
+			
+			thamizhThonduDAO.listInsert(listOfObjects);
+			
+			return true;
+			
+			}
+			
+			catch (Exception e) {
+				
+				e.printStackTrace();
+				
+				return false;
+				
+			}
+		}
+		
 }

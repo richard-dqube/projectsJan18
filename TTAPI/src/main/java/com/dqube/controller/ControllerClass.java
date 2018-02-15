@@ -8,6 +8,7 @@ import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -23,6 +24,8 @@ public class ControllerClass {
 	
 	@Autowired
 	ThamizhThonduService thamizhThonduService;
+	
+	//Fetching List
 	
 	@ResponseBody
 	@RequestMapping(value="/{user_id}" , method=RequestMethod.GET)
@@ -48,6 +51,27 @@ public class ControllerClass {
 		listFinal.put("PokeTableEntity", poke);
 
 		return listFinal;
+	}
+	
+	//Inserting List
+	
+	@ResponseBody
+	@RequestMapping(value={"/insertList"}, method = RequestMethod.POST)
+	public boolean insertList(@RequestBody List<Current_Points> listOfObjects){      /*List<EntityClass> listOfObjects*/
+		
+		try {
+			
+     thamizhThonduService.listInsert(listOfObjects);
+     return true;
+     
+		}
+		
+		catch (Exception e){
+			
+		e.printStackTrace();
+		return false;
+		
+		}
 	}
 	
 }

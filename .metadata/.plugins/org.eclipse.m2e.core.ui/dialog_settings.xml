@@ -2,12 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.dqube"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="apiConfig"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -56,6 +54,18 @@
 			<item value="[name]"/>
 		</list>
 	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 			<item value="D:\EclipseWorkSpaces\v1Jan18"/>
@@ -71,12 +81,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.dqube.TopTenPointsFetchingAPI"/>
 			<item value="com.dqube"/>
 		</list>
 		<list key="groupId">
 			<item value="com.dqube"/>
 		</list>
 		<list key="artifactId">
+			<item value="TopTenPointsFetchingAPI"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

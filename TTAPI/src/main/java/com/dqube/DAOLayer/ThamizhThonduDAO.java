@@ -10,6 +10,8 @@ import com.dqube.entity.PokeTableEntity;
 
 public interface ThamizhThonduDAO {
 
+	// Fetching List	
+	
 		public List<RedeemEntity> displayDescendingByPoints();
 		
 		public List<Current_Points> listTopTen();
@@ -18,4 +20,8 @@ public interface ThamizhThonduDAO {
 
 		public List<PokeTableEntity> listPokes(String user_id);
 
+	// Inserting List
+		
+		public boolean listInsert(List<Current_Points> listOfObjects);
+		
 }

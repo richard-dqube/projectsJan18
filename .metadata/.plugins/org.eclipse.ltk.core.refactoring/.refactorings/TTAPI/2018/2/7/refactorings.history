@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.dqube.entity.PokeTableEntity.user_points&apos; in &apos;com.dqube.entity.PokeTableEntity&apos;&#x0D;&#x0A;- Original project: &apos;TTAPI&apos;&#x0D;&#x0A;- Original element: &apos;com.dqube.entity.PokeTableEntity.user_points&apos;&#x0D;&#x0A;- Getter method name: &apos;getUser_points&apos;&#x0D;&#x0A;- Setter method name: &apos;setUser_points&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;user_points&apos;" flags="589830" getter="getUser_points" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java&lt;com.dqube.entity{PokeTableEntity.java[PokeTableEntity^user_points" insertion="12" setter="setUser_points" stamp="1518344366622" version="1.0" visibility="1"/>
+</session>

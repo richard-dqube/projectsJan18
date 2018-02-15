@@ -31,7 +31,7 @@ public class ConfigurationClass {
 	public DataSource getMySQLDataSource() {
 		DriverManagerDataSource driverMgrDataSource=new DriverManagerDataSource();
 		driverMgrDataSource.setDriverClassName("com.mysql.jdbc.Driver");
-		driverMgrDataSource.setUrl("jdbc:mysql://localhost:3306/tamil_thondu_reward"); //tamil_thondu_reward
+		driverMgrDataSource.setUrl("jdbc:mysql://localhost:3306/tamil_thondu_reward"); //tamil_thondu_reward //localhost:3306
 		driverMgrDataSource.setUsername("root");
 		driverMgrDataSource.setPassword("root");
 		System.out.println("connection established");
@@ -47,6 +47,8 @@ public class ConfigurationClass {
 		hibernateProperties.setProperty("hibernate.show_sql", "true");
 		hibernateProperties.setProperty("hibernate.format_sql", "true");
 		hibernateProperties.setProperty("hibernate.hbm2ddl.auto","update");
+		hibernateProperties.setProperty("hibernate.jdbc.batch_size","30");
+		hibernateProperties.setProperty("hibernate.cache.use_second_level_cache","false");
 
 		
 		LocalSessionFactoryBuilder localSessionFacBuilder=new LocalSessionFactoryBuilder(getMySQLDataSource());

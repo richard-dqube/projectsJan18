@@ -1,5 +1,0 @@
-package com.dqube.ServiceLayer;
-
-public interface EmployeeService {
-
-}

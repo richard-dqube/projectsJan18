@@ -1,6 +1,7 @@
 package com.dqube.entity;
 
 import java.io.Serializable;
+import java.text.ParseException;
 import java.util.Date;
 
 import javax.persistence.Entity;
@@ -21,12 +22,13 @@ public class PokeTableEntity implements Serializable {
 	
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
-	int id;
-	String user_id;
-	String poke_user_id;
-	boolean inbound;
-	boolean outbound;
-	Date date_time;
+	private int id;
+	private String user_id;
+	private String poke_user_id;
+	private boolean inbound;
+	private boolean outbound;
+	private Date date_time;
+	private int user_points;
 	
 	//Getter and Setter
 	
@@ -63,11 +65,17 @@ public class PokeTableEntity implements Serializable {
 	public Date getDate_time() {
 		return date_time;
 	}
-	public void setDate_time(Date date_time) {
+	public void setDate_time(Date date_time) throws ParseException {
 		this.date_time = date_time;
 	}
 	public static long getSerialversionuid() {
 		return serialVersionUID;
-	}	
+	}
+	public int getUser_points() {
+		return user_points;
+	}
+	public void setUser_points(int user_points) {
+		this.user_points = user_points;
+	}		
 	
 }
